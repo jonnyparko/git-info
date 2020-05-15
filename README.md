@@ -7,3 +7,6 @@
 4. Now add your files you want to commit for the first time 'git add .'
 5. 'git push --set-upstream origin master'
 6. All done, rejoice. 
+  
+#mongodb atlas tips/tricks
+Search javascript date - { "timeDate": {$lt: new ISODate("2020-05-12")} }
